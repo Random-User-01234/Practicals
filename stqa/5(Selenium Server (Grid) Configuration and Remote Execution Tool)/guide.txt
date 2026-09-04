@@ -1,0 +1,25 @@
+step 1:
+create a selenium folder in c drive
+
+step 2:
+open in cmd
+
+step 3:
+
+to start selenium
+
+for default java 
+java -jar selenium-server-4.46.0.jar hub
+
+for specific java version 
+"C:\Program Files\Java\jdk-11.0.32\bin\java.exe" -jar selenium-server-4.46.0.jar hub
+
+step 4:
+
+to add a node 
+
+for default java
+java -jar selenium-server-4.46.0.jar node
+
+for specific java version
+"C:\Program Files\Java\jdk-11.0.32\bin\java.exe" -jar selenium-server-4.46.0.jar node

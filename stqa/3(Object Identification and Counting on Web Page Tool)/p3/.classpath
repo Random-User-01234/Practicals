@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/practicals/stqa/3(Object Identification and Counting on Web Page Tool)/p3/lib/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/practicals/stqa/3(Object Identification and Counting on Web Page Tool)/p3/lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

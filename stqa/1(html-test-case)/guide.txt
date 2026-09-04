@@ -1,0 +1,10 @@
+create url without netbeans 
+
+example
+stqa
+-index.html
+
+open this in cmd
+
+cmd:
+python -m http.server 8000
